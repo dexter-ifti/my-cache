@@ -8,5 +8,11 @@ git clone git@github.com:dexter-ifti/my-cache.git
 ```bash
 configure `.env` file like `.env.example`
 ```
+`
+if you want to use redis locally then in cache.js simply create a new instance of redis client like this
+`
+```javascript
+const redisClient = redis.createClient();
+```
 2. Run `npm install`
 3. Run `npm run dev`
