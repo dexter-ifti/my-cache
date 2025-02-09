@@ -4,7 +4,7 @@
 git clone git@github.com:dexter-ifti/my-cache.git
 ```
 ```bash
-.env
+create .env file in the root dir
 DATABASE_URL = "paste your postgres url here"
 PORT = "port number"
 ```
