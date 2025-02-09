@@ -1,5 +1,6 @@
 # Deployed API Link
 [API Link](https://my-cache-r4kn.onrender.com)
+for API documentation please visit [API Documentation](https://my-cache-r4kn.onrender.com/doc)
 # Setup locally
 1. Clone the repository
 ```
