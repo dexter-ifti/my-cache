@@ -5,7 +5,7 @@ const doc = {
         title: 'My Cache API',
         description: 'This is a simple cache API using Redis and Prisma',
     },
-    host: 'https://my-cache-r4kn.onrender.com'
+    host: 'my-cache-r4kn.onrender.com'
 };
 
 const outputFile = './swagger-output.json';
