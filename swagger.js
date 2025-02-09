@@ -2,10 +2,10 @@ const swaggerAutogen = require('swagger-autogen')();
 
 const doc = {
     info: {
-        title: 'My API',
-        description: 'Description'
+        title: 'My Cache API',
+        description: 'This is a simple cache API using Redis and Prisma',
     },
-    host: 'localhost:3000'
+    host: 'https://my-cache-r4kn.onrender.com'
 };
 
 const outputFile = './swagger-output.json';
