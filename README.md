@@ -34,5 +34,7 @@ const redisClient = redis.createClient();
 2. Run `npm install`
 3. Run `npm run dev`
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dexter-ifti/my-cache@github)](https://gitads.dev/v1/ad-track?source=dexter-ifti/my-cache@github)
 
-<!-- GitAds-Verify: 3DPQFHT78C9CA1BXT7T7T67C72NPXY1I -->
+
